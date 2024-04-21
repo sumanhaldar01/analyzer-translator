@@ -14,7 +14,7 @@ body{
   min-height: 100vh;
   background: #4073e1; 
 }
-.nav{
+.container-fluid{
   position: fixed;
   top: 0;
 }
