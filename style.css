@@ -14,7 +14,10 @@ body{
   min-height: 100vh;
   background: #4073e1; 
 }
-
+.nav{
+  position: fixed;
+  top: 0;
+}
 .h1{
   text-align: center;  
 }
