@@ -12,8 +12,9 @@ body{
   padding: 0 10px;
   min-height: 100vh;
   background: #4073e1; 
+}
   
-.h1{
+h1{
   text-align: center;  
 }
 .container{
