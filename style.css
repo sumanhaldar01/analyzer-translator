@@ -11,7 +11,11 @@ body{
   justify-content: center;
   padding: 0 10px;
   min-height: 100vh;
-  background: #4073e1; 
+  background: #4073e1 ; 
+}
+
+nav{
+  z-index: 9999;
 }
   
 h1{
